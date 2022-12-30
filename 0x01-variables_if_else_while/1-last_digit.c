@@ -6,6 +6,9 @@
 /* betty style doc for function main goes there */
 /*
  * main - print last digit of int
+ *
+ * @n:generated number
+ *
  * Return: 0
  */
 int main(void)
