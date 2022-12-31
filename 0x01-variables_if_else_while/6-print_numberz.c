@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /*
- * main - return numbers
- * @intToAscii:ascii function
- * Return: always 0 (Success)
+ * main- returns alphabets
+ * @intToAscii: intToAscii always returns ascii of number
+ * Return: always returns zero
  */
 
 int intToAscii(int number)
